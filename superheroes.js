@@ -2,7 +2,7 @@ const superheroes = [
   'Batman',
   'Captain America',
   'Ironman',
-  'Deadpools',
+  'Deadpool',
   'Thor',
   'Hanuman',
 ];
