@@ -6,5 +6,7 @@ function getFavoriteSuperheroMovie(person) {
       return 'Avengers: Infinity War';
     case 'Anshuman':
       return 'Ramayan';
+    case 'Andrew':
+      return 'Dr. Strange';
   }
 }
