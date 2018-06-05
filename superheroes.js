@@ -17,5 +17,3 @@ function getFavoriteSuperhero(person) {
       return superheroes[5];
   }
 }
-
-console.log(getFavoriteSuperhero('Nishant'));
